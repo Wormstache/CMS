@@ -1,0 +1,35 @@
+.yellow{
+	background: white;
+}
+.brand{
+	font-family: 'Abril Fatface', cursive;
+}
+.image{
+	background-image: url('../image/trees.jpg');
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 600px;
+	border-radius: 0;
+	background-position: bottom;
+}
+footer{
+	height: 50px;
+	background:#222;
+	color: white;
+	font-family: 'Ubuntu Mono', monospace;
+}
+.text{
+	padding: 0 200px;
+	padding-bottom: 20px;
+}
+.wrapper{
+	min-height: calc(100vh - 50px);
+}
+.categoryButton{
+	margin-top: 75px;
+}
+.error_card{
+	margin-top: 100px;
+}
